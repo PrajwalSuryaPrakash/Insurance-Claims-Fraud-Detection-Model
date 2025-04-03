@@ -101,8 +101,8 @@ We experimented with **multiple ML models**, and **XGBoost** achieved the best p
 ---
 
 ## 🤝 **Contributors**
-👤 **Nava Bhargav Gedda**  
-📩 [navabhargavg@gmail.com](mailto:navabhargavg@gmail.com)  
+👤 **Prajwal Surya Prakash**  
+📩 [prajwalsuryaprakash@gmail.com](mailto:prajwalsuryaprakash@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/prajwal-surya-prakash-7bb980246/) | 🌐 [GitHub](https://github.com/PrajwalSuryaPrakash)  
 
 ---
